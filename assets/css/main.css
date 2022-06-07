@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar, .navbar-nav>.active>a{
+    min-height: 100px;
+}
+.navbar-brand{
+    padding: 0 15px;
+}
+.navbar-nav>li>a{
+    padding: 40px 15px;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.titile-content{
+    margin: 150px 0 75px 0;
+}
+.list-contact{
+    padding-left: 0;
+    list-style: none;
+}
+.list-contact li{
+    display: flex;
+    padding-bottom: 5px;
+}
+.list-contact li span{
+    letter-spacing: 1px;
+    padding: 0 5px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color: #ffaa37;
+    color: #fff;
+}
+.img-logo{
+    width: 125px;
+}
+.navbar-default{
+    background: #fff;
+}
+.carousel-inner .item img{
+    width: 100%;
+}
+p{
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.title{
+    font-weight: 700;
+}
+.carousel{
+    margin-top: 100px;
+}
+@media (max-width: 767px){
+    .img-logo{
+        width: 70px;
+    }
+    .navbar, .navbar-nav>.active>a{
+        min-height: 0;
+    }
+    .navbar-nav>li>a{
+        padding: 15px;
+    }
+    .carousel{
+        margin-top: 50px;
+    }
+    .titile-content {
+        margin: 80px 0 40px 0;
+    }
+}
