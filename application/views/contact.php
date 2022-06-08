@@ -26,6 +26,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <span>almonprima@zonatrans.com</span>
             </li>
             <li>
+              <span>&nbsp;&nbsp;&nbsp;</span>
+              <span>bontos@pszonatrans.com</span>
+            </li>
+            <li>
               <span><i class="fa fa-phone" aria-hidden="true"></i></span>
               <span>+62(21) 8303540</span>
             </li>

@@ -59,14 +59,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
       <div class="row" style="margin-top: 25px;">
         <div class="col-md-6 hidden-xs">
-          <img alt="Brand" src="<?php echo base_url(); ?>assets/images/flexitank-min.png" class="img-responsive">
+          <img alt="Brand" src="<?php echo base_url(); ?>assets/images/flexitank-home-min.png" class="img-responsive">
         </div>
         <div class="col-md-6">
           <h2>Flexitank</h2>
           <p>Flexitank is a hermetic sealed, collapsible and flexible bag/bladder which is stuffed in a 20' DV Container, and rely on a 20' dry-van container walls and flooring, to contain the bulk liquid cargo bag. The flexitank's size/volume can range between 16,000-24,000 liters.</p>
         </div>
         <div class="col-md-6 visible-xs">
-          <img alt="Brand" src="<?php echo base_url(); ?>assets/images/trucking-min.png" class="img-responsive">
+          <img alt="Brand" src="<?php echo base_url(); ?>assets/images/flexitank-home-min.png" class="img-responsive">
         </div>
       </div>
       <div class="row" style="margin-top: 25px;">

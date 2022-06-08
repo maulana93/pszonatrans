@@ -20,8 +20,8 @@
         <li class="dropdown <?php if($menu=='service'){ echo 'active'; } ?>">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Service <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo base_url().'service/iso-tank';?>">ISO Tank</a></li>
-            <li><a href="<?php echo base_url().'service/flexi-tank';?>">Flexi Tank</a></li>
+            <li><a href="<?php echo base_url().'service/iso-tank';?>">Isotank</a></li>
+            <li><a href="<?php echo base_url().'service/flexi-tank';?>">Flexitank</a></li>
             <li><a href="<?php echo base_url().'service/trucking';?>">Trucking</a></li>
           </ul>
         </li>
